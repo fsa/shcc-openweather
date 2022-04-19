@@ -1,0 +1,22 @@
+{
+    "name": "fsa/shcc-openweathermap",
+    "description": "SHCC OpenWeatherMap plugin",
+    "keywords": ["shcc"],
+    "type": "library",
+    "authors": [
+        {
+            "name": "Sergei Fedotov",
+            "email": "fsa@tavda.info"
+        }
+    ],
+    "license": "GPL-3.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "FSA\\OpenWeatherPlugin\\": "classes/"
+        }
+    },
+    "require": {
+        "php": "^7.4||^8.0",
+        "fsa/openweathermap-api": "^0.1"
+    }
+}

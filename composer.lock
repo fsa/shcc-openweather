@@ -1,0 +1,62 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "dbb35b03ea280661d520e3fc59c4c5a8",
+    "packages": [
+        {
+            "name": "fsa/openweathermap-api",
+            "version": "v0.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/fsa/php-openweathermap-api.git",
+                "reference": "d6c923c9a81d5f8b2b0e3bb85f6e71f529eb269f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/fsa/php-openweathermap-api/zipball/d6c923c9a81d5f8b2b0e3bb85f6e71f529eb269f",
+                "reference": "d6c923c9a81d5f8b2b0e3bb85f6e71f529eb269f",
+                "shasum": ""
+            },
+            "require": {
+                "ext-curl": "*",
+                "php": "^7.4||^8.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "FSA\\OpenWeatherMap\\": "classes/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "Sergei Fedotov",
+                    "email": "fsa@tavda.info"
+                }
+            ],
+            "description": "OpenWeatherMap.org API",
+            "support": {
+                "issues": "https://github.com/fsa/php-openweathermap-api/issues",
+                "source": "https://github.com/fsa/php-openweathermap-api/tree/v0.1.0"
+            },
+            "time": "2022-04-09T11:39:00+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": "^7.4||^8.0"
+    },
+    "platform-dev": [],
+    "plugin-api-version": "2.2.0"
+}
