@@ -22,7 +22,6 @@
         }
     },
     "require": {
-        "php": "^7.4||^8.0",
-        "fsa/openweathermap-api": "^0.2"
+        "php": "^7.4||^8.0"
     }
 }

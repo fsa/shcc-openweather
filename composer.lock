@@ -4,50 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8803d4af02f1530fcb57fc3208950c69",
-    "packages": [
-        {
-            "name": "fsa/openweathermap-api",
-            "version": "v0.2.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/fsa/php-openweathermap-api.git",
-                "reference": "e6a8c869d3b8328356d734e1c15842d07a78171e"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/fsa/php-openweathermap-api/zipball/e6a8c869d3b8328356d734e1c15842d07a78171e",
-                "reference": "e6a8c869d3b8328356d734e1c15842d07a78171e",
-                "shasum": ""
-            },
-            "require": {
-                "ext-curl": "*",
-                "php": "^7.4||^8.0"
-            },
-            "type": "library",
-            "autoload": {
-                "psr-4": {
-                    "FSA\\OpenWeatherMap\\": "classes/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "GPL-3.0-or-later"
-            ],
-            "authors": [
-                {
-                    "name": "Sergei Fedotov",
-                    "email": "fsa@tavda.info"
-                }
-            ],
-            "description": "OpenWeatherMap.org API",
-            "support": {
-                "issues": "https://github.com/fsa/php-openweathermap-api/issues",
-                "source": "https://github.com/fsa/php-openweathermap-api/tree/v0.2.0"
-            },
-            "time": "2022-04-23T13:39:47+00:00"
-        }
-    ],
+    "content-hash": "42374814852790b5533a6aa0b25a36f1",
+    "packages": [],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
