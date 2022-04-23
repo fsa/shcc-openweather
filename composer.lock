@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "49c497f91a1656aa139a38d20514261e",
+    "content-hash": "8803d4af02f1530fcb57fc3208950c69",
     "packages": [
         {
             "name": "fsa/openweathermap-api",

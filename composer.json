@@ -1,6 +1,6 @@
 {
-    "name": "fsa/shcc-openweathermap",
-    "description": "SHCC OpenWeatherMap plugin",
+    "name": "fsa/shcc-openweather",
+    "description": "SHCC OpenWeather plugin",
     "keywords": ["shcc"],
     "type": "library",
     "authors": [
@@ -10,6 +10,12 @@
         }
     ],
     "license": "GPL-3.0-or-later",
+    "extra": {
+        "shcc-plugin": {
+            "name": "OpenWeather",
+            "namespace": "FSA\\OpenWeatherPlugin\\"
+        }
+    },
     "autoload": {
         "psr-4": {
             "FSA\\OpenWeatherPlugin\\": "classes/"
