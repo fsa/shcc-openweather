@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "dbb35b03ea280661d520e3fc59c4c5a8",
+    "content-hash": "49c497f91a1656aa139a38d20514261e",
     "packages": [
         {
             "name": "fsa/openweathermap-api",
-            "version": "v0.1.0",
+            "version": "v0.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/fsa/php-openweathermap-api.git",
-                "reference": "d6c923c9a81d5f8b2b0e3bb85f6e71f529eb269f"
+                "reference": "e6a8c869d3b8328356d734e1c15842d07a78171e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/fsa/php-openweathermap-api/zipball/d6c923c9a81d5f8b2b0e3bb85f6e71f529eb269f",
-                "reference": "d6c923c9a81d5f8b2b0e3bb85f6e71f529eb269f",
+                "url": "https://api.github.com/repos/fsa/php-openweathermap-api/zipball/e6a8c869d3b8328356d734e1c15842d07a78171e",
+                "reference": "e6a8c869d3b8328356d734e1c15842d07a78171e",
                 "shasum": ""
             },
             "require": {
@@ -43,9 +43,9 @@
             "description": "OpenWeatherMap.org API",
             "support": {
                 "issues": "https://github.com/fsa/php-openweathermap-api/issues",
-                "source": "https://github.com/fsa/php-openweathermap-api/tree/v0.1.0"
+                "source": "https://github.com/fsa/php-openweathermap-api/tree/v0.2.0"
             },
-            "time": "2022-04-09T11:39:00+00:00"
+            "time": "2022-04-23T13:39:47+00:00"
         }
     ],
     "packages-dev": [],
@@ -58,5 +58,5 @@
         "php": "^7.4||^8.0"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.3.0"
 }
