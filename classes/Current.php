@@ -2,7 +2,7 @@
 
 namespace FSA\OpenWeatherPlugin;
 
-use SmartHome\DeviceInterface;
+use FSA\SmartHome\DeviceInterface;
 
 class Current implements DeviceInterface
 {
