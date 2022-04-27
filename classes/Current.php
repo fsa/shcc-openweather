@@ -104,7 +104,7 @@ class Current implements DeviceInterface
         return true;
     }
 
-    public function getEvents()
+    public function getEvents(): ?array
     {
         if (empty($this->events)) {
             return null;
