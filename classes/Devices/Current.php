@@ -1,6 +1,6 @@
 <?php
 
-namespace FSA\OpenWeatherPlugin;
+namespace FSA\OpenWeatherPlugin\Devices;
 
 use FSA\SmartHome\DeviceInterface;
 
