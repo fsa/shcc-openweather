@@ -1,0 +1,5 @@
+{
+    "name": "OpenWeather",
+    "namespace": "FSA\\OpenWeatherPlugin\\",
+    "description":  "Получение данных о погоде с сайта OpenWeather."
+}

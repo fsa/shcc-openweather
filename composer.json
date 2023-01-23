@@ -10,18 +10,12 @@
         }
     ],
     "license": "GPL-3.0-or-later",
-    "extra": {
-        "shcc-plugin": {
-            "name": "OpenWeather",
-            "namespace": "FSA\\OpenWeatherPlugin\\"
-        }
-    },
     "autoload": {
         "psr-4": {
             "FSA\\OpenWeatherPlugin\\": "classes/"
         }
     },
     "require": {
-        "php": "^8.1"
+        "fsa/shcc-framework": "dev-main"
     }
 }
