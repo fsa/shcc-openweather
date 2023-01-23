@@ -16,6 +16,6 @@
         }
     },
     "require": {
-        "fsa/shcc-framework": "dev-main"
+        "fsa/shcc-framework": "^0.1"
     }
 }
